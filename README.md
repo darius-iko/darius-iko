@@ -1,6 +1,10 @@
 - 👋 Hi, I’m @darius-iko
 - 👀 I’m interested in Software Engineering
 - 🌱 I’m currently learning Angular
+- 🌱 I’m currently learning React
+- 🌱 I’m currently learning ASP.NET
+- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Android
 - 💞️ I’m looking to collaborate on any projects
 - 📫 How to reach me ...
 
